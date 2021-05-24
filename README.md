@@ -1,2 +1,2 @@
 # igorvac.cc
-Repositório com conteúdos e portfolio :)
+Repositório com conteúdos e portfolio
